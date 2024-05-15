@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "484491b65dbf50b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "228da5104cfb0810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cc26a4ff3c1c714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂项/matplotlib绘图点滴.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27c97d0638fea305",
+    "type": "split",
+    "children": [
+      {
+        "id": "716d88b77a0fa0e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc700ed9a0efdbdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fd935c5af7641a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "369e0ac7fa8495c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "189e84fa14fc1045",
+    "type": "split",
+    "children": [
+      {
+        "id": "265c363b056e2b1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d01c279eb75ea47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "杂项/matplotlib绘图点滴.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09e78d5d7b8e2858",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "杂项/matplotlib绘图点滴.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abdda9a51b042843",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1df3de823c95b553",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "杂项/matplotlib绘图点滴.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-wordpress:发布到 WordPress": false
+    }
+  },
+  "active": "1cc26a4ff3c1c714",
+  "lastOpenFiles": [
+    "photos/DiGraph.png",
+    "photos/Graph.png",
+    "杂项/anaconda加入环境变量.md",
+    "FDS/Graph.md",
+    "FDS/Tree.md",
+    "FDS/Doubly Linked List.md",
+    "photos/anatomy.png",
+    "杂项/matplotlib绘图点滴.md",
+    "photos/anatomy.png.crdownload",
+    "photos",
+    "新建文件夹",
+    "杂项/Explorer不见力！.md",
+    "杂项",
+    "The",
+    "Estruswent's note.png",
+    "FDS/Doubly Linked List-new.md",
+    "Excalidraw/AddToEnd.excalidraw.md",
+    "Excalidraw/AddToEnd.excalidraw.png",
+    "Excalidraw/AddToHead.excalidraw.md",
+    "Excalidraw/AddToHead.excalidraw.png",
+    "Excalidraw/AddToMid.excalidraw.md",
+    "Excalidraw/AddToMid.excalidraw.png",
+    "Excalidraw/Delete.excalidraw.png",
+    "Excalidraw/Delete.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-24 19.37.14.excalidraw.md",
+    "FDS/Pasted image 20240423115324.png",
+    "Excalidraw",
+    "FDS/excalidraw 24-04-23 11.31.54.ex",
+    "excalidraw 24-04-23 11.43.22.ex",
+    "excalidraw 24-04-23 11.42.48.ex",
+    "FDS"
+  ]
+}

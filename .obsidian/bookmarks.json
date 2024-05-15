@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1713965972716,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1713966007531,
+          "path": "FDS/Doubly Linked List.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1713966015758,
+          "path": "Excalidraw/AddToMid.excalidraw.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1713966023660,
+          "path": "Excalidraw/Delete.excalidraw.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1713966029525,
+          "path": "Excalidraw/AddToHead.excalidraw.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1713966035375,
+          "path": "Excalidraw/AddToEnd.excalidraw.md"
+        }
+      ],
+      "title": "Doubly Linked List"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lang": "auto",
+  "profiles": [
+    {
+      "name": "Estruswent",
+      "apiType": "xml-rpc",
+      "endpoint": "http://8.130.113.110",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": true,
+      "savePassword": true,
+      "isDefault": true,
+      "lastSelectedCategories": [
+        1
+      ],
+      "username": "Estruswent",
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"lGXj9M2B1Frv9gj3oxm5byELxjv5E53-sEzv-4a1vJ4\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "TBGoHVEUf/AnwDvi",
+        "encrypted": "ZL7lhqPD7zun83iPEKxiUVd9y1ANRJXcIJ4="
+      }
+    }
+  ],
+  "showRibbonIcon": true,
+  "defaultPostStatus": "publish",
+  "defaultCommentStatus": "open",
+  "rememberLastSelectedCategories": true,
+  "showWordPressEditConfirm": true,
+  "mathJaxOutputType": "svg",
+  "commentConvertMode": "ignore",
+  "enableHtml": true,
+  "replaceMediaLinks": false,
+  "version": "2",
+  "defaultPostType": "post"
+}
