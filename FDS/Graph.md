@@ -471,6 +471,7 @@ void DFS_recursion(Graph G,int v) {
 &nbsp;
 ## 七、最大流问题
 &nbsp;
+画图就好了，我看基本都是选择题......
 ## 八、最小生成树
 &nbsp;
 ### 1.Prim算法
